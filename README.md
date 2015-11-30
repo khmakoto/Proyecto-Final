@@ -4,6 +4,7 @@
 <h4>José Manuel González Castro</h4>
 
 <i>
+<br/>
 INTELECTUAL PROPERTY<br/>
 ____________________<br/>
 <br/>
