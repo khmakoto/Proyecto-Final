@@ -7,7 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C114A50C1C011FB000E17553 /* ViewControllerEstacionamiento.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A50B1C011FB000E17553 /* ViewControllerEstacionamiento.m */; };
+		C114A50F1C011FE300E17553 /* ViewControllerRampaBanqueta.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A50E1C011FE300E17553 /* ViewControllerRampaBanqueta.m */; };
+		C114A5121C01204400E17553 /* ViewControllerPasillo.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A5111C01204400E17553 /* ViewControllerPasillo.m */; };
+		C114A5151C01207400E17553 /* ViewControllerRampa.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A5141C01207400E17553 /* ViewControllerRampa.m */; };
+		C114A5181C01208A00E17553 /* ViewControllerEscalera.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A5171C01208A00E17553 /* ViewControllerEscalera.m */; };
+		C114A51B1C0120AD00E17553 /* ViewControllerElevador.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A51A1C0120AD00E17553 /* ViewControllerElevador.m */; };
+		C114A51E1C0120DB00E17553 /* ViewControllerPlataforma.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A51D1C0120DB00E17553 /* ViewControllerPlataforma.m */; };
+		C114A5211C01210200E17553 /* ViewControllerPisosAcabados.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A5201C01210200E17553 /* ViewControllerPisosAcabados.m */; };
+		C114A5241C01212700E17553 /* ViewControllerPuerta.m in Sources */ = {isa = PBXBuildFile; fileRef = C114A5231C01212700E17553 /* ViewControllerPuerta.m */; };
+		C1177ADB1C07BF1F00E51AC6 /* IniciarDiagnostico1.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177ADA1C07BF1F00E51AC6 /* IniciarDiagnostico1.png */; };
+		C1177ADD1C07C01500E51AC6 /* BotonSigno+.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177ADC1C07C01500E51AC6 /* BotonSigno+.png */; };
+		C1177ADF1C07C11500E51AC6 /* AgregarArea.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177ADE1C07C11500E51AC6 /* AgregarArea.png */; };
+		C1177AE11C07C1A900E51AC6 /* AreaAgregada.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AE01C07C1A900E51AC6 /* AreaAgregada.png */; };
+		C1177AE31C07C31700E51AC6 /* AgregarElemento.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AE21C07C31700E51AC6 /* AgregarElemento.png */; };
+		C1177AE51C07C49F00E51AC6 /* ElementoDiagnostico.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AE41C07C49F00E51AC6 /* ElementoDiagnostico.png */; };
+		C1177AE71C07C55100E51AC6 /* PorcentajeElemento.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AE61C07C55100E51AC6 /* PorcentajeElemento.png */; };
+		C1177AE91C07C60000E51AC6 /* BotonAtras.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AE81C07C60000E51AC6 /* BotonAtras.png */; };
+		C1177AEB1C07C7AA00E51AC6 /* MisDiagnosticos.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AEA1C07C7AA00E51AC6 /* MisDiagnosticos.png */; };
+		C1177AED1C07C8EC00E51AC6 /* DesgloseAreas.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AEC1C07C8EC00E51AC6 /* DesgloseAreas.png */; };
+		C1177AEF1C07C92400E51AC6 /* ManualAccesibilidad.png in Resources */ = {isa = PBXBuildFile; fileRef = C1177AEE1C07C92400E51AC6 /* ManualAccesibilidad.png */; };
+		C19337BB1BEC6DF7005A2BEE /* TableViewControllerMenuElementos.m in Sources */ = {isa = PBXBuildFile; fileRef = C19337BA1BEC6DF7005A2BEE /* TableViewControllerMenuElementos.m */; };
+		C19337BE1BEC705E005A2BEE /* ViewControllerAgregarArea.m in Sources */ = {isa = PBXBuildFile; fileRef = C19337BD1BEC705E005A2BEE /* ViewControllerAgregarArea.m */; };
+		C19337C11BEC710F005A2BEE /* ViewControllerAgregarElemento.m in Sources */ = {isa = PBXBuildFile; fileRef = C19337C01BEC710F005A2BEE /* ViewControllerAgregarElemento.m */; };
+		C19698431C01607E0079B07E /* TableViewControllerDiagnosticos.m in Sources */ = {isa = PBXBuildFile; fileRef = C19698421C01607E0079B07E /* TableViewControllerDiagnosticos.m */; };
+		C19698461C016CDA0079B07E /* ViewControllerDetallesDiagnostico.m in Sources */ = {isa = PBXBuildFile; fileRef = C19698451C016CDA0079B07E /* ViewControllerDetallesDiagnostico.m */; };
+		C19698491C018D4D0079B07E /* ViewControllerManual.m in Sources */ = {isa = PBXBuildFile; fileRef = C19698481C018D4D0079B07E /* ViewControllerManual.m */; };
+		C196984D1C018DD80079B07E /* Manual.pdf in Resources */ = {isa = PBXBuildFile; fileRef = C196984C1C018DD80079B07E /* Manual.pdf */; };
+		C1F1B0011BEAD938009F5452 /* DBManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C1F1B0001BEAD938009F5452 /* DBManager.m */; };
+		C1F1B0051BEADDB7009F5452 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C1F1B0041BEADDB7009F5452 /* libsqlite3.0.dylib */; };
+		C1F1B00B1BEAE5EC009F5452 /* diagnosticos.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = C1F1B00A1BEAE5EC009F5452 /* diagnosticos.sqlite */; };
+		C1F1B00D1BEAF747009F5452 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C1F1B00C1BEAF747009F5452 /* MessageUI.framework */; };
+		C1F87ED71BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.m in Sources */ = {isa = PBXBuildFile; fileRef = C1F87ED61BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.m */; };
 		FB47D9AC1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.m in Sources */ = {isa = PBXBuildFile; fileRef = FB47D9AB1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.m */; };
+		FB9A5CF91C03D50200CD4DE8 /* ViewControllerAjustes.m in Sources */ = {isa = PBXBuildFile; fileRef = FB9A5CF81C03D50200CD4DE8 /* ViewControllerAjustes.m */; };
 		FBF68D021BD6E46300AF5DF1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FBF68D011BD6E46300AF5DF1 /* main.m */; };
 		FBF68D051BD6E46300AF5DF1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FBF68D041BD6E46300AF5DF1 /* AppDelegate.m */; };
 		FBF68D081BD6E46400AF5DF1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FBF68D071BD6E46400AF5DF1 /* ViewController.m */; };
@@ -22,6 +55,7 @@
 		FBF68D321BD6F7A000AF5DF1 /* ViewControllerMenuPrincipal.m in Sources */ = {isa = PBXBuildFile; fileRef = FBF68D311BD6F7A000AF5DF1 /* ViewControllerMenuPrincipal.m */; };
 		FBF68D341BD6F8D900AF5DF1 /* SettingsIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = FBF68D331BD6F8D900AF5DF1 /* SettingsIcon.png */; };
 		FBF68D361BD6F91800AF5DF1 /* CemexLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = FBF68D351BD6F91800AF5DF1 /* CemexLogo.png */; };
+		FBFADA031BFBE91200482A9D /* ViewControllerBanqueta.m in Sources */ = {isa = PBXBuildFile; fileRef = FBFADA021BFBE91200482A9D /* ViewControllerBanqueta.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,8 +69,59 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C114A50A1C011FB000E17553 /* ViewControllerEstacionamiento.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerEstacionamiento.h; sourceTree = "<group>"; };
+		C114A50B1C011FB000E17553 /* ViewControllerEstacionamiento.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerEstacionamiento.m; sourceTree = "<group>"; };
+		C114A50D1C011FE300E17553 /* ViewControllerRampaBanqueta.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerRampaBanqueta.h; sourceTree = "<group>"; };
+		C114A50E1C011FE300E17553 /* ViewControllerRampaBanqueta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerRampaBanqueta.m; sourceTree = "<group>"; };
+		C114A5101C01204400E17553 /* ViewControllerPasillo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPasillo.h; sourceTree = "<group>"; };
+		C114A5111C01204400E17553 /* ViewControllerPasillo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPasillo.m; sourceTree = "<group>"; };
+		C114A5131C01207400E17553 /* ViewControllerRampa.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerRampa.h; sourceTree = "<group>"; };
+		C114A5141C01207400E17553 /* ViewControllerRampa.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerRampa.m; sourceTree = "<group>"; };
+		C114A5161C01208A00E17553 /* ViewControllerEscalera.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerEscalera.h; sourceTree = "<group>"; };
+		C114A5171C01208A00E17553 /* ViewControllerEscalera.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerEscalera.m; sourceTree = "<group>"; };
+		C114A5191C0120AD00E17553 /* ViewControllerElevador.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerElevador.h; sourceTree = "<group>"; };
+		C114A51A1C0120AD00E17553 /* ViewControllerElevador.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerElevador.m; sourceTree = "<group>"; };
+		C114A51C1C0120DB00E17553 /* ViewControllerPlataforma.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPlataforma.h; sourceTree = "<group>"; };
+		C114A51D1C0120DB00E17553 /* ViewControllerPlataforma.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPlataforma.m; sourceTree = "<group>"; };
+		C114A51F1C01210200E17553 /* ViewControllerPisosAcabados.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPisosAcabados.h; sourceTree = "<group>"; };
+		C114A5201C01210200E17553 /* ViewControllerPisosAcabados.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPisosAcabados.m; sourceTree = "<group>"; };
+		C114A5221C01212700E17553 /* ViewControllerPuerta.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerPuerta.h; sourceTree = "<group>"; };
+		C114A5231C01212700E17553 /* ViewControllerPuerta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerPuerta.m; sourceTree = "<group>"; };
+		C1177ADA1C07BF1F00E51AC6 /* IniciarDiagnostico1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = IniciarDiagnostico1.png; sourceTree = "<group>"; };
+		C1177ADC1C07C01500E51AC6 /* BotonSigno+.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BotonSigno+.png"; sourceTree = "<group>"; };
+		C1177ADE1C07C11500E51AC6 /* AgregarArea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AgregarArea.png; sourceTree = "<group>"; };
+		C1177AE01C07C1A900E51AC6 /* AreaAgregada.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AreaAgregada.png; sourceTree = "<group>"; };
+		C1177AE21C07C31700E51AC6 /* AgregarElemento.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AgregarElemento.png; sourceTree = "<group>"; };
+		C1177AE41C07C49F00E51AC6 /* ElementoDiagnostico.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ElementoDiagnostico.png; sourceTree = "<group>"; };
+		C1177AE61C07C55100E51AC6 /* PorcentajeElemento.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PorcentajeElemento.png; sourceTree = "<group>"; };
+		C1177AE81C07C60000E51AC6 /* BotonAtras.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BotonAtras.png; sourceTree = "<group>"; };
+		C1177AEA1C07C7AA00E51AC6 /* MisDiagnosticos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = MisDiagnosticos.png; sourceTree = "<group>"; };
+		C1177AEC1C07C8EC00E51AC6 /* DesgloseAreas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = DesgloseAreas.png; sourceTree = "<group>"; };
+		C1177AEE1C07C92400E51AC6 /* ManualAccesibilidad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ManualAccesibilidad.png; sourceTree = "<group>"; };
+		C19337B91BEC6DF7005A2BEE /* TableViewControllerMenuElementos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControllerMenuElementos.h; sourceTree = "<group>"; };
+		C19337BA1BEC6DF7005A2BEE /* TableViewControllerMenuElementos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewControllerMenuElementos.m; sourceTree = "<group>"; };
+		C19337BC1BEC705E005A2BEE /* ViewControllerAgregarArea.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerAgregarArea.h; sourceTree = "<group>"; };
+		C19337BD1BEC705E005A2BEE /* ViewControllerAgregarArea.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerAgregarArea.m; sourceTree = "<group>"; };
+		C19337BF1BEC710F005A2BEE /* ViewControllerAgregarElemento.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerAgregarElemento.h; sourceTree = "<group>"; };
+		C19337C01BEC710F005A2BEE /* ViewControllerAgregarElemento.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerAgregarElemento.m; sourceTree = "<group>"; };
+		C19698411C01607E0079B07E /* TableViewControllerDiagnosticos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControllerDiagnosticos.h; sourceTree = "<group>"; };
+		C19698421C01607E0079B07E /* TableViewControllerDiagnosticos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewControllerDiagnosticos.m; sourceTree = "<group>"; };
+		C19698441C016CDA0079B07E /* ViewControllerDetallesDiagnostico.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerDetallesDiagnostico.h; sourceTree = "<group>"; };
+		C19698451C016CDA0079B07E /* ViewControllerDetallesDiagnostico.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerDetallesDiagnostico.m; sourceTree = "<group>"; };
+		C19698471C018D4D0079B07E /* ViewControllerManual.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerManual.h; sourceTree = "<group>"; };
+		C19698481C018D4D0079B07E /* ViewControllerManual.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerManual.m; sourceTree = "<group>"; };
+		C196984C1C018DD80079B07E /* Manual.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Manual.pdf; sourceTree = "<group>"; };
+		C1F1AFFF1BEAD938009F5452 /* DBManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBManager.h; sourceTree = "<group>"; };
+		C1F1B0001BEAD938009F5452 /* DBManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBManager.m; sourceTree = "<group>"; };
+		C1F1B0041BEADDB7009F5452 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		C1F1B00A1BEAE5EC009F5452 /* diagnosticos.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = diagnosticos.sqlite; sourceTree = "<group>"; };
+		C1F1B00C1BEAF747009F5452 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		C1F87ED51BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TableViewControllerMenuDiagnosticos.h; sourceTree = "<group>"; };
+		C1F87ED61BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewControllerMenuDiagnosticos.m; sourceTree = "<group>"; };
 		FB47D9AA1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerIniciarNuevoDiagnostico.h; sourceTree = "<group>"; };
 		FB47D9AB1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerIniciarNuevoDiagnostico.m; sourceTree = "<group>"; };
+		FB9A5CF71C03D50200CD4DE8 /* ViewControllerAjustes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerAjustes.h; sourceTree = "<group>"; };
+		FB9A5CF81C03D50200CD4DE8 /* ViewControllerAjustes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerAjustes.m; sourceTree = "<group>"; };
 		FBF68CFC1BD6E46300AF5DF1 /* Proyecto Final.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Proyecto Final.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBF68D001BD6E46300AF5DF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBF68D011BD6E46300AF5DF1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -61,6 +146,8 @@
 		FBF68D311BD6F7A000AF5DF1 /* ViewControllerMenuPrincipal.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerMenuPrincipal.m; sourceTree = "<group>"; };
 		FBF68D331BD6F8D900AF5DF1 /* SettingsIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SettingsIcon.png; sourceTree = "<group>"; };
 		FBF68D351BD6F91800AF5DF1 /* CemexLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CemexLogo.png; sourceTree = "<group>"; };
+		FBFADA011BFBE91200482A9D /* ViewControllerBanqueta.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewControllerBanqueta.h; sourceTree = "<group>"; };
+		FBFADA021BFBE91200482A9D /* ViewControllerBanqueta.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewControllerBanqueta.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +155,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1F1B00D1BEAF747009F5452 /* MessageUI.framework in Frameworks */,
+				C1F1B0051BEADDB7009F5452 /* libsqlite3.0.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,6 +173,8 @@
 		FBF68CF31BD6E46300AF5DF1 = {
 			isa = PBXGroup;
 			children = (
+				C1F1B00C1BEAF747009F5452 /* MessageUI.framework */,
+				C1F1B0041BEADDB7009F5452 /* libsqlite3.0.dylib */,
 				FBF68CFE1BD6E46300AF5DF1 /* Proyecto Final */,
 				FBF68D181BD6E46400AF5DF1 /* Proyecto FinalTests */,
 				FBF68CFD1BD6E46300AF5DF1 /* Products */,
@@ -102,14 +193,63 @@
 		FBF68CFE1BD6E46300AF5DF1 /* Proyecto Final */ = {
 			isa = PBXGroup;
 			children = (
+				C196984C1C018DD80079B07E /* Manual.pdf */,
+				C1F1B00A1BEAE5EC009F5452 /* diagnosticos.sqlite */,
+				C19698471C018D4D0079B07E /* ViewControllerManual.h */,
+				C19698481C018D4D0079B07E /* ViewControllerManual.m */,
 				FBF68D031BD6E46300AF5DF1 /* AppDelegate.h */,
 				FBF68D041BD6E46300AF5DF1 /* AppDelegate.m */,
+				C19698441C016CDA0079B07E /* ViewControllerDetallesDiagnostico.h */,
+				C19698451C016CDA0079B07E /* ViewControllerDetallesDiagnostico.m */,
 				FBF68D061BD6E46400AF5DF1 /* ViewController.h */,
+				C1F1AFFF1BEAD938009F5452 /* DBManager.h */,
+				C1F1B0001BEAD938009F5452 /* DBManager.m */,
 				FBF68D071BD6E46400AF5DF1 /* ViewController.m */,
+				C19698411C01607E0079B07E /* TableViewControllerDiagnosticos.h */,
+				C19698421C01607E0079B07E /* TableViewControllerDiagnosticos.m */,
 				FBF68D091BD6E46400AF5DF1 /* Main.storyboard */,
+				FB9A5CF71C03D50200CD4DE8 /* ViewControllerAjustes.h */,
+				FB9A5CF81C03D50200CD4DE8 /* ViewControllerAjustes.m */,
+				C114A5221C01212700E17553 /* ViewControllerPuerta.h */,
+				C114A5231C01212700E17553 /* ViewControllerPuerta.m */,
+				C114A51F1C01210200E17553 /* ViewControllerPisosAcabados.h */,
+				C114A5201C01210200E17553 /* ViewControllerPisosAcabados.m */,
+				C114A51C1C0120DB00E17553 /* ViewControllerPlataforma.h */,
+				C114A51D1C0120DB00E17553 /* ViewControllerPlataforma.m */,
+				C114A5191C0120AD00E17553 /* ViewControllerElevador.h */,
+				C114A51A1C0120AD00E17553 /* ViewControllerElevador.m */,
+				C114A5161C01208A00E17553 /* ViewControllerEscalera.h */,
+				C114A5171C01208A00E17553 /* ViewControllerEscalera.m */,
+				C114A5131C01207400E17553 /* ViewControllerRampa.h */,
+				C114A5141C01207400E17553 /* ViewControllerRampa.m */,
+				C114A5101C01204400E17553 /* ViewControllerPasillo.h */,
+				C114A5111C01204400E17553 /* ViewControllerPasillo.m */,
+				C114A50D1C011FE300E17553 /* ViewControllerRampaBanqueta.h */,
+				C114A50E1C011FE300E17553 /* ViewControllerRampaBanqueta.m */,
+				C114A50A1C011FB000E17553 /* ViewControllerEstacionamiento.h */,
+				C114A50B1C011FB000E17553 /* ViewControllerEstacionamiento.m */,
+				C19337BC1BEC705E005A2BEE /* ViewControllerAgregarArea.h */,
+				C19337BD1BEC705E005A2BEE /* ViewControllerAgregarArea.m */,
+				C19337BF1BEC710F005A2BEE /* ViewControllerAgregarElemento.h */,
+				C19337C01BEC710F005A2BEE /* ViewControllerAgregarElemento.m */,
+				C19337B91BEC6DF7005A2BEE /* TableViewControllerMenuElementos.h */,
+				C19337BA1BEC6DF7005A2BEE /* TableViewControllerMenuElementos.m */,
+				C1F87ED51BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.h */,
+				C1F87ED61BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.m */,
 				FB47D9AA1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.h */,
 				FB47D9AB1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.m */,
 				FBF68D351BD6F91800AF5DF1 /* CemexLogo.png */,
+				C1177ADA1C07BF1F00E51AC6 /* IniciarDiagnostico1.png */,
+				C1177ADE1C07C11500E51AC6 /* AgregarArea.png */,
+				C1177AE01C07C1A900E51AC6 /* AreaAgregada.png */,
+				C1177AE21C07C31700E51AC6 /* AgregarElemento.png */,
+				C1177AE81C07C60000E51AC6 /* BotonAtras.png */,
+				C1177ADC1C07C01500E51AC6 /* BotonSigno+.png */,
+				C1177AEC1C07C8EC00E51AC6 /* DesgloseAreas.png */,
+				C1177AE41C07C49F00E51AC6 /* ElementoDiagnostico.png */,
+				C1177AEE1C07C92400E51AC6 /* ManualAccesibilidad.png */,
+				C1177AEA1C07C7AA00E51AC6 /* MisDiagnosticos.png */,
+				C1177AE61C07C55100E51AC6 /* PorcentajeElemento.png */,
 				FBF68D331BD6F8D900AF5DF1 /* SettingsIcon.png */,
 				FBF68D301BD6F7A000AF5DF1 /* ViewControllerMenuPrincipal.h */,
 				FBF68D311BD6F7A000AF5DF1 /* ViewControllerMenuPrincipal.m */,
@@ -119,6 +259,8 @@
 				FBF68D2B1BD6EFA600AF5DF1 /* ViewControllerRegistrarCuenta.m */,
 				FBF68D271BD6E93900AF5DF1 /* ViewControllerIniciarSesion.h */,
 				FBF68D281BD6E93900AF5DF1 /* ViewControllerIniciarSesion.m */,
+				FBFADA011BFBE91200482A9D /* ViewControllerBanqueta.h */,
+				FBFADA021BFBE91200482A9D /* ViewControllerBanqueta.m */,
 				FBF68D251BD6E89D00AF5DF1 /* LoadingIcon.png */,
 				FBF68D0C1BD6E46400AF5DF1 /* Images.xcassets */,
 				FBF68D0E1BD6E46400AF5DF1 /* LaunchScreen.xib */,
@@ -233,12 +375,25 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1177AE31C07C31700E51AC6 /* AgregarElemento.png in Resources */,
+				C196984D1C018DD80079B07E /* Manual.pdf in Resources */,
+				C1F1B00B1BEAE5EC009F5452 /* diagnosticos.sqlite in Resources */,
+				C1177ADB1C07BF1F00E51AC6 /* IniciarDiagnostico1.png in Resources */,
 				FBF68D341BD6F8D900AF5DF1 /* SettingsIcon.png in Resources */,
+				C1177AE11C07C1A900E51AC6 /* AreaAgregada.png in Resources */,
 				FBF68D0B1BD6E46400AF5DF1 /* Main.storyboard in Resources */,
 				FBF68D261BD6E89D00AF5DF1 /* LoadingIcon.png in Resources */,
 				FBF68D361BD6F91800AF5DF1 /* CemexLogo.png in Resources */,
+				C1177AEB1C07C7AA00E51AC6 /* MisDiagnosticos.png in Resources */,
+				C1177AED1C07C8EC00E51AC6 /* DesgloseAreas.png in Resources */,
 				FBF68D101BD6E46400AF5DF1 /* LaunchScreen.xib in Resources */,
+				C1177ADF1C07C11500E51AC6 /* AgregarArea.png in Resources */,
 				FBF68D0D1BD6E46400AF5DF1 /* Images.xcassets in Resources */,
+				C1177AEF1C07C92400E51AC6 /* ManualAccesibilidad.png in Resources */,
+				C1177ADD1C07C01500E51AC6 /* BotonSigno+.png in Resources */,
+				C1177AE51C07C49F00E51AC6 /* ElementoDiagnostico.png in Resources */,
+				C1177AE91C07C60000E51AC6 /* BotonAtras.png in Resources */,
+				C1177AE71C07C55100E51AC6 /* PorcentajeElemento.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,14 +411,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C114A51B1C0120AD00E17553 /* ViewControllerElevador.m in Sources */,
 				FBF68D081BD6E46400AF5DF1 /* ViewController.m in Sources */,
 				FB47D9AC1BE02619008281DA /* ViewControllerIniciarNuevoDiagnostico.m in Sources */,
 				FBF68D051BD6E46300AF5DF1 /* AppDelegate.m in Sources */,
+				C19337BE1BEC705E005A2BEE /* ViewControllerAgregarArea.m in Sources */,
+				C114A51E1C0120DB00E17553 /* ViewControllerPlataforma.m in Sources */,
+				FB9A5CF91C03D50200CD4DE8 /* ViewControllerAjustes.m in Sources */,
+				C19337C11BEC710F005A2BEE /* ViewControllerAgregarElemento.m in Sources */,
 				FBF68D2F1BD6F54F00AF5DF1 /* ViewControllerConfirmacionRegistrarCuenta.m in Sources */,
+				C114A50C1C011FB000E17553 /* ViewControllerEstacionamiento.m in Sources */,
 				FBF68D321BD6F7A000AF5DF1 /* ViewControllerMenuPrincipal.m in Sources */,
 				FBF68D021BD6E46300AF5DF1 /* main.m in Sources */,
+				C114A50F1C011FE300E17553 /* ViewControllerRampaBanqueta.m in Sources */,
 				FBF68D2C1BD6EFA600AF5DF1 /* ViewControllerRegistrarCuenta.m in Sources */,
+				C1F87ED71BEC67E600F29A0B /* TableViewControllerMenuDiagnosticos.m in Sources */,
+				C19698431C01607E0079B07E /* TableViewControllerDiagnosticos.m in Sources */,
+				C114A5241C01212700E17553 /* ViewControllerPuerta.m in Sources */,
+				C19698491C018D4D0079B07E /* ViewControllerManual.m in Sources */,
 				FBF68D291BD6E93900AF5DF1 /* ViewControllerIniciarSesion.m in Sources */,
+				C19698461C016CDA0079B07E /* ViewControllerDetallesDiagnostico.m in Sources */,
+				C114A5211C01210200E17553 /* ViewControllerPisosAcabados.m in Sources */,
+				FBFADA031BFBE91200482A9D /* ViewControllerBanqueta.m in Sources */,
+				C114A5121C01204400E17553 /* ViewControllerPasillo.m in Sources */,
+				C114A5181C01208A00E17553 /* ViewControllerEscalera.m in Sources */,
+				C19337BB1BEC6DF7005A2BEE /* TableViewControllerMenuElementos.m in Sources */,
+				C114A5151C01207400E17553 /* ViewControllerRampa.m in Sources */,
+				C1F1B0011BEAD938009F5452 /* DBManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

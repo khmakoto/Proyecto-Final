@@ -10,4 +10,8 @@
 
 @interface ViewControllerConfirmacionRegistrarCuenta : UIViewController
 
+// Nombre e email del usuario actual.
+@property (nonatomic, strong) NSString *sUsuario;
+@property (nonatomic, strong) NSString *sEmail;
+
 @end

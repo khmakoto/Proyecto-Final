@@ -10,4 +10,7 @@
 
 @interface ViewControllerMenuPrincipal : UIViewController
 
+@property (nonatomic, strong) NSString *sUsuario;
+@property (nonatomic, strong) NSString *sEmail;
+
 @end

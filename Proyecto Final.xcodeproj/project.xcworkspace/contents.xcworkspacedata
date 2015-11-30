@@ -2,6 +2,24 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:../Proyecto Final/ViewControllerManual.h">
+   </FileRef>
+   <FileRef
+      location = "group:../Proyecto Final/ViewControllerManual.m">
+   </FileRef>
+   <FileRef
+      location = "group:../ViewControllerDetallesDiagnostico.h">
+   </FileRef>
+   <FileRef
+      location = "group:../ViewControllerDetallesDiagnostico.m">
+   </FileRef>
+   <FileRef
+      location = "group:../TableViewControllerDiagnosticos.h">
+   </FileRef>
+   <FileRef
+      location = "group:../TableViewControllerDiagnosticos.m">
+   </FileRef>
+   <FileRef
       location = "self:Proyecto Final.xcodeproj">
    </FileRef>
 </Workspace>
